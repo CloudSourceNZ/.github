@@ -1,7 +1,2 @@
-## Hi there 👋
+## CloudSource NZ 👋
 
-<!--
-
-**CloudSource NZ**
-
--->
